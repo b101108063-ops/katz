@@ -4,36 +4,6 @@
     <p class="page-subtitle">14th Edition &middot; Bertram G. Katzung, Susan B. Masters, Anthony J. Trevor</p>
 </header>
 
-<div id="search-container">
-    <input type="search" id="search-input" placeholder="搜尋藥理學內容..." autocomplete="off" />
-    <div id="search-results"></div>
-</div>
-
-<link rel="stylesheet" href="/katz/pagefind/pagefind-ui.css" />
-<script src="/katz/pagefind/pagefind-ui.js"></script>
-<script>
-    window.addEventListener('DOMContentLoaded', function() {
-        if (typeof window.pagefind === 'undefined') {
-            var pf = document.createElement('script');
-            pf.src = '/katz/pagefind/pagefind-ui.js';
-            pf.onload = initSearch;
-            document.head.appendChild(pf);
-        } else {
-            initSearch();
-        }
-        function initSearch() {
-            new PagefindUI({
-                element: "#search-results",
-                showSubResults: true,
-                showImages: false,
-                resetStyles: false,
-                sort: { date: "desc" }
-            });
-            document.getElementById("search-input").focus();
-        }
-    });
-</script>
-
 <div class="chapters-wrapper">
 
     <div class="chapter-group">
@@ -172,31 +142,6 @@
     .page-subtitle { text-align: center; color: #9ca3af; margin-top: 0.3rem; font-size: 0.95rem; }
 
     /* 隱藏 PaperMod 主題內建的搜尋框 */
-    #searchbox, .searchbox, #searchInput, #searchResults {
-        display: none !important;
-        visibility: hidden !important;
-    }
-
-    /* 搜尋框 */
-    #search-container { max-width: 800px; margin: 0 auto 2rem auto; }
-    #search-input {
-        width: 100%;
-        padding: 12px 16px;
-        font-size: 1rem;
-        background: #242526;
-        border: 2px solid #38393a;
-        border-radius: 8px;
-        color: #e5e7eb;
-        outline: none;
-        box-sizing: border-box;
-    }
-    #search-input:focus { border-color: #3a86ff; }
-    #search-results { margin-top: 4px; }
-    .pagefind-ui { --pagefind-ui-scale: 0.85; --pagefind-ui-primary: #3a86ff; --pagefind-ui-text: #e5e7eb; --pagefind-ui-background: #242526; --pagefind-ui-border: #38393a; --pagefind-ui-tag: #38393a; --pagefind-ui-border-width: 1px; --pagefind-ui-border-radius: 6px; --pagefind-ui-image-border-radius: 6px; --pagefind-ui-font: "Noto Sans TC", sans-serif; }
-    .pagefind-ui__result { background: #242526 !important; border-bottom: 1px solid #38393a !important; padding: 12px !important; border-radius: 6px !important; margin-bottom: 8px !important; }
-    .pagefind-ui__result-title { color: #60a5fa !important; font-weight: 600 !important; }
-    .pagefind-ui__result-link { color: #60a5fa !important; }
-    .pagefind-ui__result-excerpt { color: #9ca3af !important; line-height: 1.5 !important; }
-    .pagefind-ui__result a { background: transparent !important; }
+    #searchbox, .searchbox, #searchInput, #searchResults { display: none !important; }
 </style>
 {{ end }}
