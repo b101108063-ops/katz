@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>Pharmacokinetics and Pharmacodynamics | Katzung Basic &amp; Clinical Pharmacology</title>
+<meta name="keywords" content="">
+<meta name="description" content="章節導讀
+藥物動力學與藥效學的整合是精準給藥的基礎，本章介紹分布體積、清除率、半衰期等核心 PK 參數，以及一級動力學與容量限制動力學的臨床意義。
+
+基本藥物動力學參數
+分布體積（Volume of Distribution, V_d）
+分布體積連結體內藥物量與血液或血漿中的藥物濃度：
+
+
+
+
+  
+    
+      
+體
+內
+藥
+物
+量
+=
+V
+_
+d
+×
+C
+（
+血
+漿
+濃
+度
+）
+
+
+    
+  
+
+
+  
+      
+          特性
+          說明
+      
+  
+  
+      
+          表觀體積
+          V_d 可超過實際身體容積（藥物在組織中蓄積）
+      
+      
+          臨床意義
+          Digoxin V_d ≈ 500 L/70kg（實際體積約 70L）
+      
+  
+
+清除率（Clearance, CL）
+清除率是衡量身體消除藥物能力的參數：">
+<meta name="author" content="">
+<link rel="canonical" href="/katz/katz/ch03/">
+<link crossorigin="anonymous" href="/katz/assets/css/stylesheet.6ff46447b1fa3f8a5cc0bcae48088decc3ae37f5fbc99406a3aefc3bf0e6044a.css" integrity="sha256-b/RkR7H6P4pcwLyuSAiN7MOuN/X7yZQGo678O/DmBEo=" rel="preload stylesheet" as="style">
+<link rel="icon" href="/katz/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="/katz/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/katz/favicon-32x32.png">
+<link rel="apple-touch-icon" href="/katz/apple-touch-icon.png">
+<link rel="mask-icon" href="/katz/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="/katz/katz/ch03/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script><meta property="og:url" content="/katz/katz/ch03/">
+  <meta property="og:site_name" content="Katzung Basic & Clinical Pharmacology">
+  <meta property="og:title" content="Pharmacokinetics and Pharmacodynamics">
+  <meta property="og:description" content="章節導讀 藥物動力學與藥效學的整合是精準給藥的基礎，本章介紹分布體積、清除率、半衰期等核心 PK 參數，以及一級動力學與容量限制動力學的臨床意義。
+基本藥物動力學參數 分布體積（Volume of Distribution, V_d） 分布體積連結體內藥物量與血液或血漿中的藥物濃度：
+體 內 藥 物 量 = V _ d × C （ 血 漿 濃 度 ） 特性 說明 表觀體積 V_d 可超過實際身體容積（藥物在組織中蓄積） 臨床意義 Digoxin V_d ≈ 500 L/70kg（實際體積約 70L） 清除率（Clearance, CL） 清除率是衡量身體消除藥物能力的參數：">
+  <meta property="og:locale" content="zh_tw">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="katz">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Pharmacokinetics and Pharmacodynamics">
+  <meta name="twitter:description" content="章節導讀 藥物動力學與藥效學的整合是精準給藥的基礎，本章介紹分布體積、清除率、半衰期等核心 PK 參數，以及一級動力學與容量限制動力學的臨床意義。
+基本藥物動力學參數 分布體積（Volume of Distribution, V_d） 分布體積連結體內藥物量與血液或血漿中的藥物濃度：
+體 內 藥 物 量 = V _ d × C （ 血 漿 濃 度 ） 特性 說明 表觀體積 V_d 可超過實際身體容積（藥物在組織中蓄積） 臨床意義 Digoxin V_d ≈ 500 L/70kg（實際體積約 70L） 清除率（Clearance, CL） 清除率是衡量身體消除藥物能力的參數：">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Katzung Basic \u0026 Clinical Pharmacology",
+      "item": "/katz/katz/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Pharmacokinetics and Pharmacodynamics",
+      "item": "/katz/katz/ch03/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Pharmacokinetics and Pharmacodynamics",
+  "name": "Pharmacokinetics and Pharmacodynamics",
+  "description": "章節導讀 藥物動力學與藥效學的整合是精準給藥的基礎，本章介紹分布體積、清除率、半衰期等核心 PK 參數，以及一級動力學與容量限制動力學的臨床意義。\n基本藥物動力學參數 分布體積（Volume of Distribution, V_d） 分布體積連結體內藥物量與血液或血漿中的藥物濃度：\n體 內 藥 物 量 = V _ d × C （ 血 漿 濃 度 ） 特性 說明 表觀體積 V_d 可超過實際身體容積（藥物在組織中蓄積） 臨床意義 Digoxin V_d ≈ 500 L/70kg（實際體積約 70L） 清除率（Clearance, CL） 清除率是衡量身體消除藥物能力的參數：\n",
+  "keywords": [
+    
+  ],
+  "articleBody": "章節導讀 藥物動力學與藥效學的整合是精準給藥的基礎，本章介紹分布體積、清除率、半衰期等核心 PK 參數，以及一級動力學與容量限制動力學的臨床意義。\n基本藥物動力學參數 分布體積（Volume of Distribution, V_d） 分布體積連結體內藥物量與血液或血漿中的藥物濃度：\n體 內 藥 物 量 = V _ d × C （ 血 漿 濃 度 ） 特性 說明 表觀體積 V_d 可超過實際身體容積（藥物在組織中蓄積） 臨床意義 Digoxin V_d ≈ 500 L/70kg（實際體積約 70L） 清除率（Clearance, CL） 清除率是衡量身體消除藥物能力的參數：\n清 除 率 = 消 除 速 率 / C （ 藥 物 濃 度 ） 總清除率 = 腎清除率 + 肝清除率 + 其他器官清除率\n半衰期（Half-life, t_1/2） t_1/2 = 0.693 × V_d / CL\n半衰期是劑量調整的關鍵參數，受 V_d 與 CL 兩者影響。\n藥物消除動力學 一級動力學（First-order Elimination） 特性 說明 消除比例 單位時間內消除固定比例的藥物 半衰期 恆定不變 AUC 與劑量成正比 臨床意義 絕大多數藥物在此動力學範圍內 容量限制動力學（Capacity-limited/Saturable Kinetics） 重要：少數藥物在高濃度時呈現容量限制動力學：\n藥物例子 臨床意義 Phenytoin 飽和代謝，小幅增加劑量可能導致濃度大幅上升 Ethanol 高濃度時呈零級動力學 Michaelis-Menten 方程式：Rate = V_max × C / (K_m + C)\n穩定態與給藥設計 穩定態（Steady State） 重複給藥時，給藥速率等於消除速率時達到穩定態：\n給 藥 速 率 = C L × C _ s s 參數 臨床意義 達到穩定態時間 約 4-5 個半衰期（與劑量無關） 穩定態濃度 與給藥速率成正比，與清除率成反比 維持劑量與負荷劑量 公式 應用 維持劑量速率 = CL × C_ss / F 持續維持目標濃度 負荷劑量 = V_d × C_target 快速達到目標濃度 生物可用率（Bioavailability, F） 給藥途徑 F 值 說明 靜脈注射 100% 完全進入體循環 口服 變動 受吸收不全與首渡肝臟代謝影響 其他 各異 取決於給藥途徑的吸收特性 首渡效應（First-pass Effect）：口服藥物經肝臟首次通過時的部分代謝，導致 F \u003c 100%。\n腎功能與肝功能衰竭時的劑量調整 腎功能衰竭 Cockcroft-Gault 方程式估算肌酸酐清除率：\nCrCl = [(140 - 年齡) × 體重(kg)] / [72 × 血清肌酸酐(mg/dL)]（女性 × 0.85）\n藥物 腎衰竭時調整 Digoxin 腎功能不良患者需減少劑量 Aminoglycosides 顯著依賴腎清除，需监测血藥濃度 血漿蛋白結合置換 臨床意義 說明 游離藥物濃度 不改變 總藥物濃度 可能下降 臨床影響 有限（消除率不變） 重要藥物動力學數據 藥物 半衰期 (h) 分布體積 (L/70kg) 清除途徑 治療濃度範圍 Digoxin 39 500 67% 腎, 33% 肝 1 ng/mL Warfarin 37 9.8 97% 肝代謝 INR 2-3 Phenytoin 濃度依賴 45 肝代謝 10-20 mg/L Theophylline 8.1 35 肝代謝 10-20 mg/L Lithium 22 55 95% 腎 0.7-1.2 mEq/L Gentamicin 3 20 76% 腎 3 mg/L (peak) Lidocaine 1.8 77 肝血流依賴 3-6 mg/L 窄治療指數藥物：Digoxin、Lithium、Theophylline、Gentamicin — 需監測血藥濃度\n",
+  "wordCount" : "264",
+  "inLanguage": "en",
+  "datePublished": "0001-01-01T00:00:00Z",
+  "dateModified": "0001-01-01T00:00:00Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/katz/katz/ch03/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Katzung Basic \u0026 Clinical Pharmacology",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/katz/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+<body id="top">
+    <header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            <a href="/katz/" accesskey="h" title="Katzung Basic &amp; Clinical Pharmacology (Alt + H)">Katzung Basic &amp; Clinical Pharmacology</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu" class="menu">
+        </ul>
+    </nav>
+</header>
+<main class="main">
+<article class="post-single">
+    <header class="post-header">
+        <h1 class="post-title">Pharmacokinetics and Pharmacodynamics</h1>
+    </header>
+    <div class="post-content">
+        <h2 id="章節導讀">章節導讀</h2>
+<p><!-- raw HTML omitted -->藥物動力學<!-- raw HTML omitted -->與<!-- raw HTML omitted -->藥效學<!-- raw HTML omitted -->的整合是精準給藥的基礎，本章介紹<!-- raw HTML omitted -->分布體積<!-- raw HTML omitted -->、<!-- raw HTML omitted -->清除率<!-- raw HTML omitted -->、<!-- raw HTML omitted -->半衰期<!-- raw HTML omitted -->等核心 PK 參數，以及<!-- raw HTML omitted -->一級動力學<!-- raw HTML omitted -->與<!-- raw HTML omitted -->容量限制動力學<!-- raw HTML omitted -->的臨床意義。</p>
+<hr>
+<h2 id="基本藥物動力學參數">基本藥物動力學參數</h2>
+<h3 id="分布體積volume-of-distribution-v_d">分布體積（Volume of Distribution, V_d）</h3>
+<p>分布體積連結體內藥物量與血液或血漿中的藥物濃度：</p>
+
+
+
+<div class="goat svg-container ">
+  
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      font-family="Menlo,Lucida Console,monospace"
+      
+        viewBox="0 0 176 25"
+      >
+      <g transform='translate(8,16)'>
+<text text-anchor='middle' x='0' y='4' fill='currentColor' style='font-size:1em'>體</text>
+<text text-anchor='middle' x='8' y='4' fill='currentColor' style='font-size:1em'>內</text>
+<text text-anchor='middle' x='16' y='4' fill='currentColor' style='font-size:1em'>藥</text>
+<text text-anchor='middle' x='24' y='4' fill='currentColor' style='font-size:1em'>物</text>
+<text text-anchor='middle' x='32' y='4' fill='currentColor' style='font-size:1em'>量</text>
+<text text-anchor='middle' x='48' y='4' fill='currentColor' style='font-size:1em'>=</text>
+<text text-anchor='middle' x='64' y='4' fill='currentColor' style='font-size:1em'>V</text>
+<text text-anchor='middle' x='72' y='4' fill='currentColor' style='font-size:1em'>_</text>
+<text text-anchor='middle' x='80' y='4' fill='currentColor' style='font-size:1em'>d</text>
+<text text-anchor='middle' x='96' y='4' fill='currentColor' style='font-size:1em'>×</text>
+<text text-anchor='middle' x='112' y='4' fill='currentColor' style='font-size:1em'>C</text>
+<text text-anchor='middle' x='120' y='4' fill='currentColor' style='font-size:1em'>（</text>
+<text text-anchor='middle' x='128' y='4' fill='currentColor' style='font-size:1em'>血</text>
+<text text-anchor='middle' x='136' y='4' fill='currentColor' style='font-size:1em'>漿</text>
+<text text-anchor='middle' x='144' y='4' fill='currentColor' style='font-size:1em'>濃</text>
+<text text-anchor='middle' x='152' y='4' fill='currentColor' style='font-size:1em'>度</text>
+<text text-anchor='middle' x='160' y='4' fill='currentColor' style='font-size:1em'>）</text>
+</g>
+
+    </svg>
+  
+</div>
+<table>
+  <thead>
+      <tr>
+          <th>特性</th>
+          <th>說明</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>表觀體積</td>
+          <td>V_d 可超過實際身體容積（藥物在組織中蓄積）</td>
+      </tr>
+      <tr>
+          <td>臨床意義</td>
+          <td><!-- raw HTML omitted -->Digoxin V_d ≈ 500 L/70kg<!-- raw HTML omitted -->（實際體積約 70L）</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="清除率clearance-cl">清除率（Clearance, CL）</h3>
+<p><!-- raw HTML omitted -->清除率<!-- raw HTML omitted -->是衡量身體消除藥物能力的參數：</p>
+
+
+
+<div class="goat svg-container ">
+  
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      font-family="Menlo,Lucida Console,monospace"
+      
+        viewBox="0 0 168 25"
+      >
+      <g transform='translate(8,16)'>
+<text text-anchor='middle' x='0' y='4' fill='currentColor' style='font-size:1em'>清</text>
+<text text-anchor='middle' x='8' y='4' fill='currentColor' style='font-size:1em'>除</text>
+<text text-anchor='middle' x='16' y='4' fill='currentColor' style='font-size:1em'>率</text>
+<text text-anchor='middle' x='32' y='4' fill='currentColor' style='font-size:1em'>=</text>
+<text text-anchor='middle' x='48' y='4' fill='currentColor' style='font-size:1em'>消</text>
+<text text-anchor='middle' x='56' y='4' fill='currentColor' style='font-size:1em'>除</text>
+<text text-anchor='middle' x='64' y='4' fill='currentColor' style='font-size:1em'>速</text>
+<text text-anchor='middle' x='72' y='4' fill='currentColor' style='font-size:1em'>率</text>
+<text text-anchor='middle' x='88' y='4' fill='currentColor' style='font-size:1em'>/</text>
+<text text-anchor='middle' x='104' y='4' fill='currentColor' style='font-size:1em'>C</text>
+<text text-anchor='middle' x='112' y='4' fill='currentColor' style='font-size:1em'>（</text>
+<text text-anchor='middle' x='120' y='4' fill='currentColor' style='font-size:1em'>藥</text>
+<text text-anchor='middle' x='128' y='4' fill='currentColor' style='font-size:1em'>物</text>
+<text text-anchor='middle' x='136' y='4' fill='currentColor' style='font-size:1em'>濃</text>
+<text text-anchor='middle' x='144' y='4' fill='currentColor' style='font-size:1em'>度</text>
+<text text-anchor='middle' x='152' y='4' fill='currentColor' style='font-size:1em'>）</text>
+</g>
+
+    </svg>
+  
+</div>
+<p><!-- raw HTML omitted -->總清除率 = 腎清除率 + 肝清除率 + 其他器官清除率<!-- raw HTML omitted --></p>
+<h3 id="半衰期half-life-t_12">半衰期（Half-life, t_1/2）</h3>
+<p><!-- raw HTML omitted -->t_1/2 = 0.693 × V_d / CL<!-- raw HTML omitted --></p>
+<p>半衰期是劑量調整的關鍵參數，受 V_d 與 CL 兩者影響。</p>
+<hr>
+<h2 id="藥物消除動力學">藥物消除動力學</h2>
+<h3 id="一級動力學first-order-elimination">一級動力學（First-order Elimination）</h3>
+<table>
+  <thead>
+      <tr>
+          <th>特性</th>
+          <th>說明</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>消除比例</td>
+          <td>單位時間內消除固定比例的藥物</td>
+      </tr>
+      <tr>
+          <td>半衰期</td>
+          <td>恆定不變</td>
+      </tr>
+      <tr>
+          <td>AUC</td>
+          <td>與劑量成正比</td>
+      </tr>
+      <tr>
+          <td>臨床意義</td>
+          <td>絕大多數藥物在此動力學範圍內</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="容量限制動力學capacity-limitedsaturable-kinetics">容量限制動力學（Capacity-limited/Saturable Kinetics）</h3>
+<p><!-- raw HTML omitted -->重要：<!-- raw HTML omitted -->少數藥物在高濃度時呈現容量限制動力學：</p>
+<table>
+  <thead>
+      <tr>
+          <th>藥物例子</th>
+          <th>臨床意義</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><!-- raw HTML omitted -->Phenytoin<!-- raw HTML omitted --></td>
+          <td>飽和代謝，小幅增加劑量可能導致濃度大幅上升</td>
+      </tr>
+      <tr>
+          <td><!-- raw HTML omitted -->Ethanol<!-- raw HTML omitted --></td>
+          <td>高濃度時呈零級動力學</td>
+      </tr>
+  </tbody>
+</table>
+<p>Michaelis-Menten 方程式：<code>Rate = V_max × C / (K_m + C)</code></p>
+<hr>
+<h2 id="穩定態與給藥設計">穩定態與給藥設計</h2>
+<h3 id="穩定態steady-state">穩定態（Steady State）</h3>
+<p>重複給藥時，給藥速率等於消除速率時達到<!-- raw HTML omitted -->穩定態<!-- raw HTML omitted -->：</p>
+
+
+
+<div class="goat svg-container ">
+  
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      font-family="Menlo,Lucida Console,monospace"
+      
+        viewBox="0 0 136 25"
+      >
+      <g transform='translate(8,16)'>
+<text text-anchor='middle' x='0' y='4' fill='currentColor' style='font-size:1em'>給</text>
+<text text-anchor='middle' x='8' y='4' fill='currentColor' style='font-size:1em'>藥</text>
+<text text-anchor='middle' x='16' y='4' fill='currentColor' style='font-size:1em'>速</text>
+<text text-anchor='middle' x='24' y='4' fill='currentColor' style='font-size:1em'>率</text>
+<text text-anchor='middle' x='40' y='4' fill='currentColor' style='font-size:1em'>=</text>
+<text text-anchor='middle' x='56' y='4' fill='currentColor' style='font-size:1em'>C</text>
+<text text-anchor='middle' x='64' y='4' fill='currentColor' style='font-size:1em'>L</text>
+<text text-anchor='middle' x='80' y='4' fill='currentColor' style='font-size:1em'>×</text>
+<text text-anchor='middle' x='96' y='4' fill='currentColor' style='font-size:1em'>C</text>
+<text text-anchor='middle' x='104' y='4' fill='currentColor' style='font-size:1em'>_</text>
+<text text-anchor='middle' x='112' y='4' fill='currentColor' style='font-size:1em'>s</text>
+<text text-anchor='middle' x='120' y='4' fill='currentColor' style='font-size:1em'>s</text>
+</g>
+
+    </svg>
+  
+</div>
+<table>
+  <thead>
+      <tr>
+          <th>參數</th>
+          <th>臨床意義</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>達到穩定態時間</td>
+          <td>約 <!-- raw HTML omitted -->4-5 個半衰期<!-- raw HTML omitted -->（與劑量無關）</td>
+      </tr>
+      <tr>
+          <td>穩定態濃度</td>
+          <td>與給藥速率成正比，與清除率成反比</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="維持劑量與負荷劑量">維持劑量與負荷劑量</h3>
+<table>
+  <thead>
+      <tr>
+          <th>公式</th>
+          <th>應用</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><!-- raw HTML omitted -->維持劑量速率 = CL × C_ss / F<!-- raw HTML omitted --></td>
+          <td>持續維持目標濃度</td>
+      </tr>
+      <tr>
+          <td><!-- raw HTML omitted -->負荷劑量 = V_d × C_target<!-- raw HTML omitted --></td>
+          <td>快速達到目標濃度</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="生物可用率bioavailability-f">生物可用率（Bioavailability, F）</h2>
+<table>
+  <thead>
+      <tr>
+          <th>給藥途徑</th>
+          <th>F 值</th>
+          <th>說明</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>靜脈注射</td>
+          <td><!-- raw HTML omitted -->100%<!-- raw HTML omitted --></td>
+          <td>完全進入體循環</td>
+      </tr>
+      <tr>
+          <td>口服</td>
+          <td>變動</td>
+          <td>受吸收不全與首渡肝臟代謝影響</td>
+      </tr>
+      <tr>
+          <td>其他</td>
+          <td>各異</td>
+          <td>取決於給藥途徑的吸收特性</td>
+      </tr>
+  </tbody>
+</table>
+<p><!-- raw HTML omitted -->首渡效應（First-pass Effect）<!-- raw HTML omitted -->：口服藥物經肝臟首次通過時的部分代謝，導致 F &lt; 100%。</p>
+<hr>
+<h2 id="腎功能與肝功能衰竭時的劑量調整">腎功能與肝功能衰竭時的劑量調整</h2>
+<h3 id="腎功能衰竭">腎功能衰竭</h3>
+<p>Cockcroft-Gault 方程式估算肌酸酐清除率：</p>
+<p><!-- raw HTML omitted -->CrCl = [(140 - 年齡) × 體重(kg)] / [72 × 血清肌酸酐(mg/dL)]<!-- raw HTML omitted -->（女性 × 0.85）</p>
+<table>
+  <thead>
+      <tr>
+          <th>藥物</th>
+          <th>腎衰竭時調整</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><!-- raw HTML omitted -->Digoxin<!-- raw HTML omitted --></td>
+          <td>腎功能不良患者需減少劑量</td>
+      </tr>
+      <tr>
+          <td><!-- raw HTML omitted -->Aminoglycosides<!-- raw HTML omitted --></td>
+          <td>顯著依賴腎清除，需监测血藥濃度</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="血漿蛋白結合置換">血漿蛋白結合置換</h3>
+<table>
+  <thead>
+      <tr>
+          <th>臨床意義</th>
+          <th>說明</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>游離藥物濃度</td>
+          <td><!-- raw HTML omitted -->不改變<!-- raw HTML omitted --></td>
+      </tr>
+      <tr>
+          <td>總藥物濃度</td>
+          <td>可能下降</td>
+      </tr>
+      <tr>
+          <td>臨床影響</td>
+          <td>有限（消除率不變）</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="重要藥物動力學數據">重要藥物動力學數據</h2>
+<table>
+  <thead>
+      <tr>
+          <th>藥物</th>
+          <th>半衰期 (h)</th>
+          <th>分布體積 (L/70kg)</th>
+          <th>清除途徑</th>
+          <th>治療濃度範圍</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><!-- raw HTML omitted -->Digoxin<!-- raw HTML omitted --></td>
+          <td>39</td>
+          <td>500</td>
+          <td>67% 腎, 33% 肝</td>
+          <td>1 ng/mL</td>
+      </tr>
+      <tr>
+          <td><!-- raw HTML omitted -->Warfarin<!-- raw HTML omitted --></td>
+          <td>37</td>
+          <td>9.8</td>
+          <td>97% 肝代謝</td>
+          <td>INR 2-3</td>
+      </tr>
+      <tr>
+          <td><!-- raw HTML omitted -->Phenytoin<!-- raw HTML omitted --></td>
+          <td>濃度依賴</td>
+          <td>45</td>
+          <td>肝代謝</td>
+          <td>10-20 mg/L</td>
+      </tr>
+      <tr>
+          <td><!-- raw HTML omitted -->Theophylline<!-- raw HTML omitted --></td>
+          <td>8.1</td>
+          <td>35</td>
+          <td>肝代謝</td>
+          <td>10-20 mg/L</td>
+      </tr>
+      <tr>
+          <td><!-- raw HTML omitted -->Lithium<!-- raw HTML omitted --></td>
+          <td>22</td>
+          <td>55</td>
+          <td>95% 腎</td>
+          <td>0.7-1.2 mEq/L</td>
+      </tr>
+      <tr>
+          <td><!-- raw HTML omitted -->Gentamicin<!-- raw HTML omitted --></td>
+          <td>3</td>
+          <td>20</td>
+          <td>76% 腎</td>
+          <td>3 mg/L (peak)</td>
+      </tr>
+      <tr>
+          <td><!-- raw HTML omitted -->Lidocaine<!-- raw HTML omitted --></td>
+          <td>1.8</td>
+          <td>77</td>
+          <td>肝血流依賴</td>
+          <td>3-6 mg/L</td>
+      </tr>
+  </tbody>
+</table>
+<p><!-- raw HTML omitted -->窄治療指數藥物：Digoxin、Lithium、Theophylline、Gentamicin — 需監測血藥濃度<!-- raw HTML omitted --></p>
+
+    </div>
+</article>
+
+<style>
+    .post-content {
+        font-size: 1.02rem;
+        line-height: 1.7;
+        color: #e5e7eb;
+        max-width: 800px;
+        margin: 0 auto;
+    }
+    .post-content h1:first-child { display: none !important; }
+    .post-content h2 {
+        font-size: 1.4rem;
+        color: #60a5fa;
+        border-left: 4px solid #3a86ff;
+        padding-left: 12px;
+        margin-top: 2.2rem;
+        margin-bottom: 1rem;
+        font-weight: 600;
+    }
+    .post-content h3 {
+        font-size: 1.2rem;
+        color: #93c5fd;
+        margin-top: 1.8rem;
+        margin-bottom: 0.8rem;
+        font-weight: 600;
+    }
+    .post-content h4 {
+        font-size: 1.05rem;
+        color: #e2e8f0;
+        margin-top: 1.4rem;
+        margin-bottom: 0.6rem;
+        font-weight: 600;
+    }
+    .post-content ul, .post-content ol {
+        padding-left: 1.5rem;
+        margin-bottom: 1.2rem;
+    }
+    .post-content li {
+        margin-bottom: 0.5rem;
+        line-height: 1.6;
+    }
+    .post-content table {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.8rem 0;
+        font-size: 0.95rem;
+        background-color: #242526;
+        border-radius: 8px;
+        border: 1px solid #38393a;
+    }
+    .post-content th, .post-content td {
+        padding: 12px 16px;
+        text-align: left;
+        border-bottom: 1px solid #38393a;
+        color: #e5e7eb;
+    }
+    .post-content th {
+        background-color: #2a2b2c;
+        color: #3a86ff;
+        font-weight: 700;
+    }
+    .post-content tr:last-child td { border-bottom: none; }
+    .post-content tr:hover { background-color: #2a2b2c; }
+    .post-content blockquote {
+        border-left: 4px solid #3a86ff;
+        padding: 12px 16px;
+        margin: 1.5rem 0;
+        background-color: #242526;
+        border-radius: 4px;
+    }
+    .post-content blockquote p { margin-bottom: 0.5rem; color: #9ca3af; }
+    .post-content strong { color: #60a5fa; font-weight: 600; }
+    .post-content em { color: #93c5fd; }
+    .post-content hr { border: none; border-top: 1px solid #38393a; margin: 2rem 0; }
+</style>
+
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="/katz/">Katzung Basic &amp; Clinical Pharmacology</a></span> · 
+
+    
+    
+    <span>
+        Powered by
+        <a href="https://gohugo.io/?utm_source=papermod" rel="noopener" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var toplink = document.getElementById("top-link");
+    window.onscroll = function () {
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
+        } else {
+            toplink.classList.add("hidden");
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

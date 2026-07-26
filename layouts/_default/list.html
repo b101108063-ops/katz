@@ -1,0 +1,42 @@
+{{ define "main" }}
+<header class="page-header" style="text-align:center; margin-bottom:2rem;">
+    <h1>{{ .Title }}</h1>
+</header>
+<div class="list-container">
+    {{ range .Pages }}
+        <a href="{{ .Permalink }}" class="list-item">
+            <span class="section-title">📖 {{ .Title }}</span>
+            <span class="arrow">➔</span>
+        </a>
+    {{ end }}
+</div>
+<style>
+    .list-container {
+        max-width: 800px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    .list-item {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 1rem 1.5rem;
+        background-color: #242526;
+        color: #e5e7eb;
+        text-decoration: none;
+        border-radius: 8px;
+        border: 1px solid #38393a;
+        font-size: 1.05rem;
+        font-weight: 500;
+        transition: all 0.2s ease-in-out;
+    }
+    .list-item:hover {
+        background-color: #2a2b2c;
+        border-color: #3a86ff;
+        transform: translateX(4px);
+    }
+    .arrow { color: #3a86ff; font-weight: bold; }
+</style>
+{{ end }}

@@ -1,0 +1,16 @@
+baseURL = "/katz/"
+languageCode = "zh-tw"
+title = "Katzung Basic & Clinical Pharmacology"
+theme = "PaperMod"
+publishDir = "docs"
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[outputFormats.JSON]
+mediatype = "application/json"
+baseName = "index"
+isPlainText = true
