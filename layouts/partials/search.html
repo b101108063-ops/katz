@@ -18,10 +18,11 @@
         function initSearch() {
             new PagefindUI({
                 element: "#search-results",
-                showSubResults: true,
+                showSubResults: false,
                 showImages: false,
                 resetStyles: false,
-                sort: { date: "desc" }
+                sort: { date: "desc" },
+                excerptLength: 10
             });
             document.getElementById("search-input").focus();
         }

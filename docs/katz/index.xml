@@ -93,57 +93,37 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/katz/katz/ch47/</guid>
       <description>&lt;h2 id=&#34;章節導讀&#34;&gt;章節導讀&lt;/h2&gt;
-&lt;p&gt;本章節介紹 β-lactam 類與其他作用於細菌細胞壁的抗生素。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;β-lactam 抗生素共同特性&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;h1 id=&#34;beta-lactam-與細胞壁作用抗生素&#34;&gt;Beta-Lactam 與細胞壁作用抗生素&lt;/h1&gt;
+&lt;h2 id=&#34;beta-lactam-抗生素共同特性&#34;&gt;Beta-Lactam 抗生素共同特性&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;具有 four-membered β-lactam ring&lt;/li&gt;
 &lt;li&gt;抑制細菌胞壁合成所必需的 transpeptidase（penicillin-binding proteins, PBPs）&lt;/li&gt;
 &lt;li&gt;對分裂旺盛的細菌具 bactericidal 作用&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Penicillins&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;penicillins&#34;&gt;Penicillins&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;窄效 Penicillins&lt;/strong&gt;：Penicillin G、Penicillin V，對 Gram+ 球菌有效&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;抗葡萄球菌 Penicillins&lt;/strong&gt;：Nafcillin、Oxacillin，對 β-lactamase 穩定&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;廣效 Penicillins&lt;/strong&gt;：Ampicillin、Amoxicillin、Piperacillin，對 Gram- 菌擴展有效&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;β-lactamase 抑制劑複方&lt;/strong&gt;：Augmentin（Amoxicillin + Clavulanate）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Cephalosporins&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;cephalosporins&#34;&gt;Cephalosporins&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;分為五代，各有抗菌譜特色&lt;/li&gt;
 &lt;li&gt;第一代（cefazolin）：主要用於 Gram+ 球菌手術預防&lt;/li&gt;
 &lt;li&gt;第三代（ceftriaxone、ceftazidime）：廣效，涵蓋 Gram- 菌，部分可入腦脊液&lt;/li&gt;
 &lt;li&gt;第四代（cefepime）：對 β-lactamase 穩定，對 Pseudomonas 有效&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Vancomycin&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;vancomycin&#34;&gt;Vancomycin&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;抑制 peptidoglycan 鏈交聯，對 Gram+ 菌有強效 bactericidal 作用&lt;/li&gt;
 &lt;li&gt;臨床上用於 MRSA、嚴重 Gram+ 菌感染&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;betalactam-compounds&#34;&gt;BETALACTAM COMPOUNDS&lt;/h2&gt;
-&lt;p&gt;PENICILLINS
-The penicillins share features of chemistry, mechanism of action,
-pharmacology, and immunologic characteristics with cephalosporins,
-monobactams, carbapenems, and &lt;!-- raw HTML omitted --&gt;β-lactamase&lt;!-- raw HTML omitted --&gt; inhibitors. All are
-β-lactam compounds, so named because of their four-membered
-lactam ring.
-Chemistry
-All penicillins have the basic structure shown in  Figure 43–1 . A
-thiazolidine ring (A) is attached to a β-lactam ring (B) that carries
-a secondary amino group (RNH–). Substituents (R; examples
-shown in  Figure 43–2 ) can be attached to the amino group.
-Structural integrity of the 6-aminopenicillanic acid nucleus (rings A
-plus B) is essential for the biologic activity of these compounds.
-Hydrolysis of the β-lactam ring by bacterial β-lactamases yields
-penicilloic acid, which lacks antibacterial activity.
-A. Classification
-Substituents of the 6-aminopenicillanic acid moiety determine the
-essential pharmacologic and antibacterial properties of the result-
-ing molecules. Penicillins can be assigned to one of three groups
-(below). Within each of these groups are compounds that are rela-
-tively stable to gastric acid and suitable for oral administration, eg,
-&lt;!-- raw HTML omitted --&gt;penic&lt;!-- raw HTML omitted --&gt;amoxicillin&lt;!-- raw HTML omitted --&gt;&amp;gt; V, dicloxacillin, and amoxicillin. The side chains of
-some representatives of each group are shown in  Figure &lt;!-- raw HTML omitted --&gt;penicillin&lt;!-- raw HTML omitted --&gt;h
-a few distinguishing characteristics.&lt;/p&gt;</description>
+&lt;hr&gt;
+&lt;h2 id=&#34;beta-lactam-compounds&#34;&gt;BETA-LACTAM COMPOUNDS&lt;/h2&gt;
+&lt;h3 id=&#34;penicillins-1&#34;&gt;PENICILLINS&lt;/h3&gt;
+&lt;p&gt;Penicillins 與 cephalosporins、monobactams、carbapenems 及 β-lactamase inhibitors 在化學結構、作用機轉、藥理學及免疫學特性上具有共同特點。這些藥物皆屬於 β-lactam 化合物，因其具有四元 lactam ring 而得名。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cholinoceptor-Activating and Cholinesterase-Inhibiting Drugs</title>
@@ -948,13 +928,12 @@ a few distinguishing characteristics.&lt;/p&gt;</description>
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;臨床應用&lt;/strong&gt;：使用激素補充或抑制時需了解負回饋機制。&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;660    SECTION VII Endocrine Drugs
-Drugs that mimic or block the effects of &amp;lt;span style=&amp;ldquo;colo&lt;!-- raw HTML omitted --&gt;pituitary&lt;!-- raw HTML omitted --&gt;&amp;quot;&amp;gt;hypothalamic&lt;!-- raw HTML omitted --&gt; and
-pituitary hormones have pharmacologic applications in three
-primary areas: (1) as replacement therapy for hormone deficiency
-s&lt;!-- raw HTML omitted --&gt;pituitary&lt;!-- raw HTML omitted --&gt;) as antagonists for diseases caused by excess production
-of pituitary hormones; and (3) as diagnostic tools for identifying
-several endocrine abnormalities.&lt;/p&gt;</description>
+&lt;h2 id=&#34;下視丘與腦下垂體激素&#34;&gt;下視丘與腦下垂體激素&lt;/h2&gt;
+&lt;p&gt;具有模擬或阻斷下視丘及腦下垂體激素作用的藥物，在三個主要領域有藥理學應用：(1) 作為激素缺乏症的替代療法；(2) 作為對抗因腦下垂體激素過度產生所致疾病的拮抗劑；以及 (3) 作為識別多種內分泌異常的診斷工具。&lt;/p&gt;
+&lt;h2 id=&#34;下視丘調節因子&#34;&gt;下視丘調節因子&lt;/h2&gt;
+&lt;p&gt;除了泌乳激素 (Prolactin, PRL) 之外，前腦下垂體所產生的所有激素都是激素系統中的關鍵參與者，在這些系統中，它們調節著內分泌腺及其他周邊組織的激素和自分泌-旁分泌因子產生。在這些系統中，下一個層級的腦下垂體激素受到一個或多個下視丘激素的控制。每個下視丘-腦下垂體-內分泌腺系統或軸線都提供了多重機會，以進行複雜的神經內分泌調節，控制生長發育、代謝和生殖功能。&lt;/p&gt;
+&lt;h2 id=&#34;下視丘激素受體&#34;&gt;下視丘激素受體&lt;/h2&gt;
+&lt;p&gt;前腦下垂體激素可根據激素結構及其激活的受體類型進行分類。生長激素 (Growth hormone, GH) 和泌乳激素是具有高度同源性的單鏈蛋白激素，構成一個組別。這兩種激素都激活 JAK/STAT 超家族的受體（見第 2 章）。三種腦下垂體激素——甲狀腺刺激激素（甲狀腺促素，或 TSH）、濾泡刺激激素 (FSH) 和黃體成長激素 (LH)——是激活 G 蛋白偶聯受體的二聚體蛋白質（見第 2 章）。TSH、FSH 和 LH 共享一個常見的 α 鏈。它們的 β 鏈雖然彼此有些相似，但差異足以賦予受體特異性。最後，腎上腺皮質激素 (ACTH) 是從一個較大的前體切割下來的單一肽，該前體也含有 β-內啡肽（見第 31 章），代表第三個類別。與 TSH、LH 和 FSH 一樣，ACTH 通過 G 蛋白偶聯受體發揮作用。ACTH 受體（也稱為黑色素皮質素 2 受體）的一個獨特特徵是，一種跨膜蛋白質——黑色素皮質素 2 受體輔助蛋白——對於正常的 ACTH 受體運輸和信號傳導至關重要。&lt;/p&gt;</description>
     </item>
     <item>
       <title>中樞神經刺激藥物</title>
@@ -1514,22 +1493,21 @@ several endocrine abnormalities.&lt;/p&gt;</description>
 &lt;li&gt;四環素：牙齒變色、骨骼生長抑制，光敏感性&lt;/li&gt;
 &lt;li&gt;巨環類：QT 延長風險&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Tetracyclines, Macrolides,
-Clindamycin,
-Chloramphenicol,
-Streptogramins,
-&amp;amp; Oxazolidinones
-Daniel H. Deck, PharmD
-&amp;amp; Lisa G. Winston, MD
-endocervical canal. No cervical motion tenderness is present. A
-first-catch urine specimen is obtained to be tested for  &lt;!-- raw HTML omitted --&gt;chlamydia&lt;!-- raw HTML omitted --&gt;
-and gonococcus. A pregnancy test is also ordered as the patient
-reports she “missed her last period.” Pending these results, the
-decision is made to treat her empirically for gonococcal and
-chlamydial cervicitis. What are two potential treatment options
-for her possible chlamydial infection? How does her potential
-pregnancy affect the treatment decision?&lt;/p&gt;</description>
+&lt;h2 id=&#34;四環素類tetracyclines&#34;&gt;四環素類（Tetracyclines）&lt;/h2&gt;
+&lt;h3 id=&#34;結構&#34;&gt;結構&lt;/h3&gt;
+&lt;p&gt;所有四環素類都具有基本結構。游離四環素類是低溶解度的兩性離子結晶物質，以鹽酸鹽形式提供，溶解度更高。此類溶液呈酸性，除 chlortetracycline 外相當穩定。四環素類會與二價金屬離子產生螯合作用，可能干擾其吸收和活性。&lt;/p&gt;
+&lt;p&gt;Tigecycline 是 glycylcycline，為 minocycline 的半合成衍生物，其結構特徵為帶有 t-butylglycylamido 取代基。&lt;/p&gt;
+&lt;h3 id=&#34;作用機轉與抗菌活性&#34;&gt;作用機轉與抗菌活性&lt;/h3&gt;
+&lt;p&gt;四環素類是廣效抑菌性抗生素，可抑制蛋白質合成。四環素類透過被動擴散和主動轉運進入微生物體內，部分屬於能量依賴性過程。敏感菌種會將藥物濃縮在細胞內。一旦進入細胞，四環素類可逆性地與細菌核糖體的 30S 亞基結合，阻斷胺醯-tRNA 與 mRNA-核糖體複合體接受位點的結合（圖 44-1）。這可防止胺基酸添加到正在增長的肽鏈上。&lt;/p&gt;
+&lt;p&gt;四環素類對許多革蘭氏陽性和革蘭氏陰性細菌具有活性，包括某些厭氧菌、立克次體、Chlamydiae 和 Mycoplasmas。大多數四環素類的抗菌活性相似，但對 tetracycline 具有抗藥性的菌株可能對 doxycycline、minocycline 和 tigecycline 敏感，這些藥物都是外排泵的不佳受質。&lt;/p&gt;
+&lt;h3 id=&#34;抗藥性&#34;&gt;抗藥性&lt;/h3&gt;
+&lt;p&gt;已描述三種對四環素類的抗藥機制：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;主動外排泵&lt;/strong&gt;：攝入減少或外排增加&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;核糖體保護&lt;/strong&gt;：產生干擾四環素類與核糖體結合的蛋白質&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;酵素性失活&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;表達 Tet(AE) 外排泵的革蘭氏陰性菌種對較舊的四環素類、doxycycline 和 minocycline 具有抗藥性，但對 tigecycline 敏感，因為 tigecycline 不是這些泵的受質。同樣地，葡萄球菌的 Tet(K) 外排泵可對 tetracycline 產生抗藥性，但對 doxycycline、minocycline 或 tigecycline 不會。&lt;/p&gt;</description>
     </item>
     <item>
       <title>圍產期與兒童藥理學</title>
@@ -1981,89 +1959,12 @@ pregnancy affect the treatment decision?&lt;/p&gt;</description>
       <description>&lt;h2 id=&#34;章節導讀&#34;&gt;章節導讀&lt;/h2&gt;
 &lt;p&gt;本章節說明抗病毒藥物，包括抗皰疹病毒藥物（Acyclovir、Valacyclovir、Ganciclovir）、抗愛滋病毒藥物（NRTIs、NNRTIs、Protease inhibitors、Integrase inhibitors）、抗流感藥物（Oseltamivir、Zanamivir）、以及抗病毒肝炎藥物（Entecavir、Tenofovir、Lamivudine）的作用機轉、藥理特性與臨床應用。&lt;/p&gt;
 &lt;p&gt;抗病毒藥物依機轉可分為：抑制病毒附著與進入（Maraviroc、Enfuvirtide）、抑制病毒脫殼（Amantadine、Rimantadine）、抑制病毒 DNA/RNA 聚合酶（Acyclovir、Ganciclovir、Foscarnet、Cidofovir）、抑制逆轉錄酶（NRTIs、NNRTIs）、抑制蛋白質轉译（Makinoxat）、以及抑制病毒釋放（Oseltamivir）。抗藥性是治療失敗的主因，需要密切監測。&lt;/p&gt;
-&lt;p&gt;CHAPTER 49 Antiviral Agents    863
-&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Acyclovir&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; diffuses readily into most tissues and body fluids.
-Cerebrospinal fluid concentrations are 20–50% of serum values.
-Oral acyclovir has multiple uses. In first episodes of genital
-herpes, oral acyclovir shortens the duration of symptoms by
-approximately 2 days, the time to lesion healing by 4 days, and the
-duration of viral shedding by 7 days. In recurrent genital herpes,
-the time course is shortened by 1–2 days. Treatment of first-
-episode genital herpes does not alter the frequency or severity of
-recurrent outbreaks. Long-term suppression with oral acyclovir in
-patients with frequent recurrences of genital herpes decreases the
-NH
-NH2
-H2N
-HO
-&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Acyclovir&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
-A. Antiherpes agents
-B. Anti-HIV NRTI agents
-C. Anti-HBV agents
-NH
-NH2
-HO
-OH
-&lt;!-- raw HTML omitted --&gt;Ganciclovir&lt;!-- raw HTML omitted --&gt;
-NH
-NH2
-&lt;!-- raw HTML omitted --&gt;Valacyclovir&lt;!-- raw HTML omitted --&gt; (prodrug)
-NH2
-&lt;!-- raw HTML omitted --&gt;Famciclovir&lt;!-- raw HTML omitted --&gt; (prodrug)
-&lt;!-- raw HTML omitted --&gt;Zidovudine&lt;!-- raw HTML omitted --&gt; (AZT)
-&lt;!-- raw HTML omitted --&gt;Cidofovir&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;Penciclovir&lt;!-- raw HTML omitted --&gt;
-NH2
-NH2
-NH2
-NH2
-NH2
-HO
-HO
-NH
-NH2
-OH
-NH2
-NH
-OH
-&lt;!-- raw HTML omitted --&gt;Foscarnet&lt;!-- raw HTML omitted --&gt;
-OH
-HO
-HO
-HO
-HO
-OH
-HO
-&lt;!-- raw HTML omitted --&gt;Stavudine&lt;!-- raw HTML omitted --&gt; (d4T)
-HO
-NH
-&lt;!-- raw HTML omitted --&gt;Zalcitabine&lt;!-- raw HTML omitted --&gt; (ddC)
-HO
-&lt;!-- raw HTML omitted --&gt;Didanosine&lt;!-- raw HTML omitted --&gt; (ddl)
-&lt;!-- raw HTML omitted --&gt;Adefovir&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;Entecavir&lt;!-- raw HTML omitted --&gt;
-HO
-NH
-&lt;!-- raw HTML omitted --&gt;Abacavir&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;Tenofovir&lt;!-- raw HTML omitted --&gt; disoproxil
-&lt;!-- raw HTML omitted --&gt;Emtricitabine&lt;!-- raw HTML omitted --&gt;
-OH
-NH
-NH
-NH2
-CH2
-H2N
-OH
-&lt;!-- raw HTML omitted --&gt;Lamivudine&lt;!-- raw HTML omitted --&gt; (3TC)
-OH
-HO
-H2N
-NH
-NH2
-&lt;!-- raw HTML omitted --&gt;Valganciclovir&lt;!-- raw HTML omitted --&gt; (prodrug)
-HO
-HO
-FIGURE 49–2  Chemical structures of some antiviral nucleoside and nucleotide analogs.&lt;/p&gt;</description>
+&lt;hr&gt;
+&lt;h2 id=&#34;抗皰疹病毒藥物&#34;&gt;抗皰疹病毒藥物&lt;/h2&gt;
+&lt;p&gt;Acyclovir 可廣泛擴散至大多數組織和體液中。腦脊髓液濃度約為血清濃度的 20–50%。&lt;/p&gt;
+&lt;p&gt;口服 Acyclovir 有多種適應症。在原發性生殖器皰疹中，口服 Acyclovir 可使症狀持續時間縮短約 2 天，病變癒合時間縮短 4 天，病毒脫落期縮短 7 天。在復發性生殖器皰疹中，病程縮短 1–2 天。原發性生殖器皰疹的治療並不會改變復發的頻率或嚴重度。對於復發頻繁的生殖器皰疹患者，長期使用口服 Acyclovir 抑制治療可減少有症狀復發和無症狀病毒脫落的頻率，進而降低性傳播的機率。然而，停止抑制性 Acyclovir 治療後，復發可能會恢復。口服 Acyclovir 對復發性口唇皰疹的效果有限。相比之下，若在水痘發疹後 24 小時內或帶狀皰疹發疹後 72 小時內開始治療，Acyclovir 治療可顯著減少患者的總病變數、症狀持續時間和病毒脫落。由於 VZV 對 Acyclovir 的敏感性低於 HSV，因此需要較高劑量（表 49–1）。對於接受器官移植的患者，預防性給予口服或靜脈注射 Acyclovir 可防止 HSV 感染的活化。最近臨床試驗的證據表明，每日使用 Acyclovir（400 mg，每日兩次）可能會減少同時感染 HSV-2 和 HIV-1 個體的 HIV-1 血漿病毒載量和 HIV 相關疾病進展的風險。&lt;/p&gt;
+&lt;p&gt;靜脈注射 Acyclovir 是皰疹性腦炎、新生兒 HSV 感染和嚴重 HSV 或 VZV 感染的治療首選（表 49–1）。在免疫功能低下的 VZV 感染患者中，靜脈注射 Acyclovir 可降低皮膚和內臟播散的發生率。&lt;/p&gt;
+&lt;p&gt;局部使用的 Acyclovir 乳膏對原發性 HSV 感染的效果遠低於口服治療。用於治療復發性生殖器皰疹則無效。&lt;/p&gt;</description>
     </item>
     <item>
       <title>抗癲癇藥物</title>
@@ -2394,48 +2295,25 @@ be required to maintain the effectiveness of these drug groups.&lt;/p&gt;</descr
 &lt;li&gt;&lt;strong&gt;抗IgE抗體&lt;/strong&gt;：Omalizumab（用於頑固性過敏性氣喘）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;CHAPTER 20 Drugs Used in &lt;!-- raw HTML omitted --&gt;Asthma&lt;!-- raw HTML omitted --&gt;    355&lt;/p&gt;
-&lt;h2 id=&#34;sympathomimetics-used-in-asthma&#34;&gt;SYMPATHOMIMETICS USED IN ASTHMA&lt;/h2&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Albuterol&lt;!-- raw HTML omitted --&gt; (generic, Proventil, Ventolin)
-Inhalant: 90 mcg/puff aerosol; 0.021, 0.042, 0.083, 0.5, 0.63%
-solution for nebulization
-Oral: 2, 4 mg tablets; 2 mg/5 mL syrup
-Oral &lt;!-- raw HTML omitted --&gt;Albuterol&lt;!-- raw HTML omitted --&gt;-release: 4, 8 m&lt;!-- raw HTML omitted --&gt;albuterol&amp;lt;/spa&lt;!-- raw HTML omitted --&gt;albuterol&lt;!-- raw HTML omitted --&gt;rol/&lt;!-- raw HTML omitted --&gt;Ipratropium&lt;!-- raw HTML omitted --&gt; (Combivent, DuoNeb)
-In&lt;!-- raw HTML omitted --&gt;ipratropium&amp;lt;/s&lt;!-- raw HTML omitted --&gt;ipratropium&lt;!-- raw HTML omitted --&gt;buterol + 18 mcg ipratropium/puff; 3 mg
-albuterol + 0.5 mg ipratropium/3 mL solution for nebulization
-Arformoterol (Brovana)
-Inhalant: 15 mcg/2 mL solution for nebulization
-Bitolterol (Tornalate)
-Inhalant: 0.2% solution for nebulization
-Ephedrine (generic)
-Oral: 25 mg capsules
-Parenteral: 50 mg/mL for injection
-Epinephrine (generic, Adrenalin)
-Inhalant: 1, 10 mg/mL for nebulization; 0.22 mg/spray epinephrine
-base aerosol
-Parenteral: 1:10,000 (0.1 mg/mL), 1:1000 (1 mg/mL)
-Formoterol (Foradil)
-Inhalant: 12 mcg/unit inhalant powder; 1% solution for nebulization
-Formoterol/&lt;!-- raw HTML omitted --&gt;Budesonide&lt;!-- raw HTML omitted --&gt; (Symbicort)
-Inhalant: 4.5 mcg/80 mcg, 4.5 mcg/160 mcg /puff
-Isoetharine (generic)
-Inhalant: 1% solution for nebulization
-Isoproterenol (generic, Isuprel)
-Inhalant: 0.5, 1% for nebulization; 80, 131 mcg/puff aerosols
-Parenteral: 0.02, 0.2 mg/mL for injection
-Levalbuterol (Xenopex)
-Inhalant: 0.31, 0.63, 1.25 mg/3 mL solution
-Metaproterenol (Alupent, generic)
-Inhalant: 0.65 mg/puff aerosol in 7, 14 g containers; 0.4, 0.6, 5% for
-nebulization
-Pirbuterol (Maxair)
-Inhalant: 0.2 mg/puff aerosol in 80 and 300 dose containers
-Salmeterol (Serevent)
-Inhal&lt;!-- raw HTML omitted --&gt;Fluticasone&lt;!-- raw HTML omitted --&gt; 50 mcg/un&lt;!-- raw HTML omitted --&gt;fluticasone&lt;!-- raw HTML omitted --&gt;ol/Fluticasone (Advair Diskus)
-Inhalant: 100, 250, 500 mcg fluticasone + 50 mcg salmeterol/unit
-Terbutaline (generic, Brethine)
-Oral: 2.5, 5 mg tablets
-Parenteral: 1 mg/mL for injection&lt;/p&gt;</description>
+&lt;h2 id=&#34;氣喘用的擬交感神經藥物&#34;&gt;氣喘用的擬交感神經藥物&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Albuterol&lt;/strong&gt;（通用名，Proventil、Ventolin）
+吸入劑：90 mcg/噴霧氣霧劑；0.021%、0.042%、0.083%、0.5%、0.63% 霧化溶液
+口服：2、4 mg 錠劑；2 mg/5 mL 糖漿
+口服持續釋放：4、8 mg 錠劑&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Albuterol/Ipratropium&lt;/strong&gt;（Combivent、DuoNeb）
+吸入劑：90 mcg albuterol + 18 mcg ipratropium/噴霧；3 mg albuterol + 0.5 mg ipratropium/3 mL 霧化���液&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Arformoterol&lt;/strong&gt;（Brovana）
+吸入劑：15 mcg/2 mL 霧化溶液&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bitolterol&lt;/strong&gt;（Tornalate）
+吸入劑：0.2% 霧化溶液&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ephedrine&lt;/strong&gt;（通用名）
+口服：25 mg 膠囊
+注射劑：50 mg/mL 注射液&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Epinephrine&lt;/strong&gt;（通用名，Adrenalin）
+吸入劑：1、10 mg/mL 霧化液；0.22 mg/噴霧 epinephrine base 氣霧劑
+注射劑：1:10,000（0.1 mg/mL）、1:1000（1 mg/mL）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Formoterol&lt;/strong&gt;（Foradil）
+吸入劑：12 mcg/單位吸入粉末；1% 霧化溶液&lt;/p&gt;</description>
     </item>
     <item>
       <title>氣喘藥物與類二十碳酸</title>
@@ -2464,39 +2342,25 @@ Parenteral: 1 mg/mL for injection&lt;/p&gt;</description>
 &lt;li&gt;NSAIDs 抑制 COX，減少前列腺素合成&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;328    SECTION IV Drugs with Important Actions on Smooth Muscle
-B. Inflammation
-Aspirin has been used to treat arthritis of all types for approxi-
-mately 100 years, but its mechanism of action—inhibition of COX
-activity—was not discovered until 1971. COX-2 appears to be the
-form of the enzyme most associated with cells involved in the
-inflammatory process, although, as outlined above, COX-1 also
-contributes significantly to &lt;!-- raw HTML omitted --&gt;prostaglandin&lt;!-- raw HTML omitted --&gt; biosynthesis during
-inflammation. Aspirin and other anti-inflammatory agents that
-inhibit COX are discussed in Chapter 36.
-C. Rheumatoid Arthritis
-In rheumatoid arthritis, immune complexes are deposited in the
-affected joints, causing an inflammatory response that is amplified
-by eicosanoids. Lymphocytes and macrophages accumulate in the
-synovium, whereas leukocytes localize mainly in the synovial fluid.
-The major eicosanoids produced by leukocytes are leukotrienes,
-which facilitate T-cell proliferation and act as chemoattractants.
-Human macrophages synthesize the COX products PGE 2 and
-TXA 2 and large amounts of leukotrienes.
-D. Infection
-The relationship of eicosanoids to infection is not well defined.
-The association between the use of the anti-inflammatory steroids
-and increased risk of infection is well established. However,
-NSAIDs do not seem to alter patient responses to infection.
-Glaucoma
-Latanoprost, a stable long-acting PGF 2α derivative, was the first
-prostanoid used for glaucoma. The success of latanoprost has
-stimulated development of similar prostanoids with ocular
-hypotensive effects, and  bimatoprost, travoprost, and  unoprostone
-are now available. These drugs act at the FP receptor and are
-administered as drops into the conjunctival sac once or twice daily.
-Adverse effects include irreversible brown pigmentation of the iris
-and eyelashes, drying of the eyes, and conjunctivitis.&lt;/p&gt;</description>
+&lt;h2 id=&#34;氣喘藥物與類二十碳酸&#34;&gt;氣喘藥物與類二十碳酸&lt;/h2&gt;
+&lt;h2 id=&#34;b-發炎&#34;&gt;B. 發炎&lt;/h2&gt;
+&lt;p&gt;Aspirin用於治療各類關節炎已約有100年歷史，但其作用機制——抑制COX活性——直到1971年才被發現。COX-2似乎是與發炎過程相關細胞中最主要的酶型態，然而，如上所述，COX-1在發炎期間也對prostaglandin的生物合成有顯著貢獻。Aspirin和其他抑制COX的抗發炎藥物將在第36章中討論。&lt;/p&gt;
+&lt;h2 id=&#34;c-類風濕性關節炎&#34;&gt;C. 類風濕性關節炎&lt;/h2&gt;
+&lt;p&gt;在類風濕性關節炎中，免疫複合體沉積於受影響的關節，引起由eicosanoids放大的發炎反應。Lymphocytes和macrophages積聚在關節膜，而leukocytes主要位於關節液中。白血球產生的主要eicosanoids是leukotrienes，這些物質促進T-cell增殖並作為化學趨化物。人類巨噬細胞合成COX產物PGE₂和TXA₂以及大量leukotrienes。&lt;/p&gt;
+&lt;h2 id=&#34;d-感染&#34;&gt;D. 感染&lt;/h2&gt;
+&lt;p&gt;Eicosanoids與感染之間的關係尚未明確定義。抗發炎類固醇的使用與感染風險增加之間的關聯已明確建立。然而，NSAIDs似乎不會改變患者的感染反應。&lt;/p&gt;
+&lt;h2 id=&#34;青光眼&#34;&gt;青光眼&lt;/h2&gt;
+&lt;p&gt;Latanoprost，一種穩定的長效PGF₂α衍生物，是第一個用於青光眼的prostanoid。Latanoprost的成功促進了具有眼壓降低作用的類似prostanoids的開發，bimatoprost、travoprost和unoprostone現已上市。這些藥物作用於FP receptor，每天一次或兩次以滴眼液方式滴入結膜囊。不良反應包括虹膜和睫毛的不可逆棕色色素沉著、眼睛乾燥和結膜炎。&lt;/p&gt;
+&lt;h2 id=&#34;arachidonic-acid-metabolism&#34;&gt;ARACHIDONIC ACID METABOLISM&lt;/h2&gt;
+&lt;p&gt;由於arachidonic acid來自膳食中的linoleic acid和α-linolenic acid，這些都是必需脂肪酸，因此膳食操縱對arachidonic acid代謝的影響已被廣泛研究。有兩種方法已被採用。第一種是在飲食中添加含有linoleic acid（C18:2）的玉米油、紅花油和葵花籽油。第二種方法是添加含有eicosapentaenoic acid（C20:5）和docosahexaenoic acid（C22:6）的油，即所謂的omega-3脂肪酸，來自冷水魚。這兩種飲食都會改變細胞膜的phospholipid組成，用膳食脂肪酸取代arachidonic acid。高魚油飲食已被證明會以不同的劑量-反應關係影響血小板和白血球功能的體外指標、血壓和三酸甘油酯。有大量流行病學數據將高脂肪魚飲食與心肌梗塞和心源性猝死發病率的降低聯繫起來，但與中風的關係更為模糊。當然，流行病學數據可能將此類飲食與減少飽和脂肪和「健康」生活方式的其他要素混為一談。此外，一些前瞻性隨機試驗的數據表明此類飲食干預可能會降低猝死發生率。體外實驗表明魚油可以防止實驗性誘導的心律失常、血小板聚集、血管運動痙攣和血脂異常。&lt;/p&gt;
+&lt;h2 id=&#34;藥物列於第36章&#34;&gt;藥物列於第36章&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Alprostadil&lt;/strong&gt;
+Penile injection（Caverject, Edex）：5、10、20、40 mcg無菌粉末供調配
+Parenteral（Prostin VR Pediatric）：500 mcg/mL安瓿&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bimatoprost&lt;/strong&gt;（Lumigan）
+Ophthalmic drops：0.03%溶液&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Carboprost tromethamine&lt;/strong&gt;（Hemabate）
+Parenteral：每mL安瓿含250 mcg carboprost和83 mcg tromethamine&lt;/p&gt;</description>
     </item>
     <item>
       <title>生物製劑臨床藥理學</title>
@@ -2618,39 +2482,12 @@ and eyelashes, drying of the eyes, and conjunctivitis.&lt;/p&gt;</description>
 &lt;p&gt;&lt;strong&gt;甲狀腺機能低下&lt;/strong&gt;：Levothyroxine（左旋甲狀腺素）為首選治療&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;甲狀腺風暴&lt;/strong&gt;：需緊急處理，包括 PTU、Iodide、Hydrocortisone、Propranolol&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;CHAPTER 38 &lt;!-- raw HTML omitted --&gt;Thyroid&lt;!-- raw HTML omitted --&gt; &amp;amp; Antithyroid Drug&lt;!-- raw HTML omitted --&gt;Thyroid&lt;!-- raw HTML omitted --&gt;83
-Peripheral Metabolism of Thyroid
-Hormones
-The primary pathway for the peripheral metabolism of &lt;!-- raw HTML omitted --&gt;thyroxine&lt;!-- raw HTML omitted --&gt;
-is deiodination. Deiodination of T 4 may occur by monodeiodina-
-tion of the outer ring, producing 3,5,3’-triiodothyronine (T 3 ), which
-is three to four times more potent than T 4 . Alternatively, deiodina-
-tion may occur in the inner ring, producing 3,3’,5’-triiodothyronine
-(reverse T 3 , or rT 3 ), which is metabolically inactive ( Figure 38–2 ).
-Drugs such as amiodarone, iodinated contrast media, β blockers,
-and corticosteroids, and severe illness or starvation inhibit the
-5’-deiodinase necessary for the conversion of T 4 to T 3 , resulting &lt;!-- raw HTML omitted --&gt;thyroid&lt;!-- raw HTML omitted --&gt;T 3 and high rT 3 levels in the serum. The pharmacokinetics of
-thyroid hormones are listed in  Table 38–1 . The low serum levels
-of T 3 and r&lt;!-- raw HTML omitted --&gt;Thyroid&lt;!-- raw HTML omitted --&gt;normal individuals are due to the high metabolic
-clearances of these two compounds.
-Evaluation of Thyroid Function
-The tests used to evaluate thyroid function are listed in   Table 38–2 .
-A. Thyroid-Pituitary Relationships
-Control of thyroid function via thyroid-pituitary feedback is also
-discussed in  Chapter 37 . Briefly, hypothalamic cells secrete
-thyrotropin-releasing hormone (TRH) ( Figure 38–3 ). TRH is
-secreted into capillaries of the pituitary portal venous system, and
-in the pituitary gland, TRH stimulates the synthesis and release of
-thyrotropin (thyroid-stimulating hormone, TSH). TSH in turn
-stimulates an adenylyl cyclase–mediated mechanism in the thyroid
-cell to increase the synthesis and release of T 4 and T 3 . These
-thyroid hormones act in a negative feedback fashion in the
-Transport of Thyroid Hormones
-T 4 and T 3 in plasma are reve&lt;!-- raw HTML omitted --&gt;thyroxine&lt;!-- raw HTML omitted --&gt;und to protein, primarily
-thyroxine-binding globulin (TBG). Only about 0.04% of total T 4
-and 0.4% of T 3 exist in the free form. Many physiologic and
-pathologic states and drugs affect T 4 , T 3 , and thyroid transport.
-However, the actual levels of free hormone generall&lt;!-- raw HTML omitted --&gt;thyroid hormone&lt;!-- raw HTML omitted --&gt;al, reflecting feedback control.&lt;/p&gt;</description>
+&lt;h2 id=&#34;甲狀腺激素的週邊代謝&#34;&gt;甲狀腺激素的週邊代謝&lt;/h2&gt;
+&lt;p&gt;甲狀腺激素週邊代謝的主要途徑是脫碘作用。T4 的脫碘作用可發生在 outer ring 的單脫碘作用，產生 3,5,3&amp;rsquo;-triiodothyronine (T3)，其效力是 T4 的三到四倍。或者，脫碘作用也可發生在 inner ring，產生 3,3&amp;rsquo;,5&amp;rsquo;-triiodothyronine (reverse T3，即 rT3)，此為無代謝活性（圖 38-2）。Amiodarone、含碘對比劑、β blockers 和皮質類固醇等藥物，以及嚴重疾病或飢餓狀態會抑制 T4 轉換為 T3 所需的 5&amp;rsquo;-deiodinase，導致血清中 T3 降低而 rT3 升高。甲狀腺激素的藥物動力學列於表 38-1。正常個體血清中 T3 和 rT3 濃度低，是由於這兩種化合物的高代謝清除率所致。&lt;/p&gt;
+&lt;h2 id=&#34;甲狀腺功能的評估&#34;&gt;甲狀腺功能的評估&lt;/h2&gt;
+&lt;p&gt;用於評估甲狀腺功能的檢驗列於表 38-2。&lt;/p&gt;
+&lt;h3 id=&#34;a-甲狀腺腦下垂體關係&#34;&gt;A. 甲狀腺─腦下垂體關係&lt;/h3&gt;
+&lt;p&gt;甲狀腺功能透過甲狀腺─腦下垂體回饋控制，在第 37 章也有討論。簡而言之，下視丘細胞分泌 thyrotropin-releasing hormone (TRH)（圖 38-3）。TRH 被分泌到腦下垂體���脈系統的毛細血管中，在腦下垂體中，TRH 刺激甲狀腺刺激素（甲狀腺刺激激素，TSH）的合成與釋放。TSH 接著刺激甲狀腺細胞中的 adenylyl cyclase 媒介機制，以增加 T4 和 T3 的合成與釋放。這些甲狀腺激素以負回饋方式作用於下視丘和腦下垂體以控制甲狀腺功能。&lt;/p&gt;</description>
     </item>
     <item>
       <title>癌症化學治療</title>
@@ -3165,86 +3002,13 @@ Lange. Copyright © 1994 by The McGraw-Hill Companies, Inc.)&lt;/p&gt;</descript
 &lt;li&gt;&lt;strong&gt;神經肌肉阻斷&lt;/strong&gt;：罕見但可能致命&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;CHAPTER 45 Aminoglycosides &amp;amp; Spectinomycin   823
-presence of active inflammation, however, cerebrospinal fluid levels
-reach 20% of plasma levels, and in neonatal meningitis, the levels
-may be higher. Intrathecal or intraventricular injection is required
-for high levels in cerebrospinal fluid. Even after parenteral admin-
-istration, concentrations of aminoglycosides are not high in most
-tissues except the renal cortex. Concentration in most secretions is
-also modest; in the bile, it may reach 30% of the blood level. With
-prolonged therapy, diffusion into pleural or synovial fluid may
-result in concentrations 50–90% of that of plasma.
-Traditionally, aminoglycosides have been administered in two
-or three equally divided doses per day in patients with normal
-renal function. However, administration of the entire daily dose in
-a single injection may be preferred in many clinical situations.
-Aminoglycosides have  concentration-dependent killing ; that is,
-increasing concentrations kill an increasing proportion of bacteria
-and at a more rapid rate. They also have a significant  postantibiotic
-effect, such that the antibacterial activity persists beyond the time
-during which measurable drug is present. The postantibiotic effect
-of aminoglycosides can last several hours. Because of these proper-
-ties, a given total amount of &lt;!-- raw HTML omitted --&gt;aminoglycoside&lt;!-- raw HTML omitted --&gt; may have better
-efficacy when administered as a single large dose than when
-administered as multiple smaller doses. When administered with
-a cell wall-active antibiotic (a β lactam or vancomycin), aminogly-
-cosides exhibit  synergistic killing against certain bacteria. The
-effect of the drugs in combination is greater than the anticipated
-effect of each individual drug, ie, the killing effect of the combina-
-tion is more than additive.
-Adverse effects from aminoglycosides are both time- and
-concentration-dependent. Toxicity is unlikely to occur until a
-certain threshold concentration is reached, but once that concen-
-tration is achieved, the time beyond this threshold becomes criti-
-cal. This threshold is not precisely defined, but a trough
-concentration above 2 mcg/mL is predictive of toxicity. At clini-
-cally relevant doses, the total time above this threshold is greater
-with multiple smaller doses of drug than with a single large dose.
-Numerous clinical studies demon&lt;!-- raw HTML omitted --&gt;aminoglycoside&lt;!-- raw HTML omitted --&gt;single daily dose
-of aminoglycoside is just as effective—and probably less toxic—
-than multiple smaller doses. Therefore, many authorities now
-recommend that aminoglycosides be administered as a single daily
-d&lt;!-- raw HTML omitted --&gt;aminoglycoside&lt;!-- raw HTML omitted --&gt;inical situations. However, the efficacy of once-
-daily aminoglycoside dosing in combination therapy of enterococ-
-cal and staphylococcal endocarditis remains to be defined, and the
-standard low-dose, thrice-daily administration is still recom-
-mended. In contrast, there are limited data supporting once-daily
-dosing in streptococcal endocarditis. The role of once-daily dosing
-in pregnancy and in neonates also is not well defined.
-Once-daily dosing has potential practical &lt;!-- raw HTML omitted --&gt;aminoglycoside&lt;!-- raw HTML omitted --&gt;r
-example, repeated determinations of serum concentrations are
-probably unnecessary unless aminoglycoside is given for more than
-3 days. A drug administered once a day rather than three times a
-day is less labor intensive. And once-a-day dosing is more feasible
-for outpatient therapy.
-Aminoglycosides are cleared by the kidney, and excretion is
-directly proportional to creatinine clearance. To avoid accumulation
-mRNA
-30S subunit
-5´
-5´
-3´
-3´
-Nascent peptide chain
-50S subunit
-Initiation
-codon
-Normal bacterial cell
-Aminoglycoside-treated bacterial cell
-Drug (block of
-initiation complex)
-Drug (miscoded peptide chain)
-Drug (block of
-translocation)
-30S subunit
-mRNA
-–
-FIGURE 45–3  Putative mechanisms of action of the aminoglycosides in bacteria. Normal protein synthesis is shown in the top panel. At
-least three aminoglycoside effects have been described, as shown in the bottom panel: block of formation of the initiation complex; miscod-
-ing of amino acids in the emerging peptide chain due to misreading of the mRNA; and block of translocation on mRNA. Block of movement of
-the ribosome may occur after the formation of a single initiation complex, resulting in an mRNA chain with only a single ribosome on it, a so-
-called monosome. (Reproduced, with permission, from Trevor AT, Katzung BG, Masters SB:  Pharmacology: Examination &amp;amp; Board Review, 6th ed. McGraw-Hill, 2002.)&lt;/p&gt;</description>
+&lt;h2 id=&#34;胺基糖苷類抗生素&#34;&gt;胺基糖苷類抗生素&lt;/h2&gt;
+&lt;h3 id=&#34;藥理學特性&#34;&gt;藥理學特性&lt;/h3&gt;
+&lt;p&gt;在有活動性發炎的情況下，腦脊髓液的藥物濃度可達血漿濃度的20%，而在新生兒腦膜炎中，濃度可能更高。要達到較高的腦脊髓液濃度，需要鞘內注射或腦室內注射。即使經腸胃外給藥，胺基糖苷類在大多數組織中的濃度都不高，腎皮質是例外。多數分泌物的藥物濃度也較低；在膽汁中可達血濃度的30%。長期治療時，藥物可擴散至漿膜腔或關節液，濃度可達血漿濃度的50-90%。&lt;/p&gt;
+&lt;p&gt;傳統上，胺基糖苷類用於腎功能正常的患者時，每日分2-3次等劑量給藥。然而，在許多臨床情況下，可能更傾向於將全日劑量單次注射給予。胺基糖苷類具有&lt;strong&gt;濃度依賴性殺菌作用&lt;/strong&gt;；也就是說，增加濃度可殺死更高比例的細菌，且殺菌速度更快。此類藥物也具有顯著的&lt;strong&gt;抗生素後效應&lt;/strong&gt;，即抗菌活性會持續到可測量藥物消失之後。胺基糖苷類的抗生素後效應可持續數小時。由於這些特性，相同總量的胺基糖苷類藥物以單次大劑量給予可能比多次小劑量給予更有效。當與細胞壁活性抗生素（β-內醯胺類或vancomycin）合用時，胺基糖苷類對某些細菌表現出&lt;strong&gt;協同殺菌作用&lt;/strong&gt;。合併用藥的效果大於各藥物單獨使用預期的效果，也就是說，合併的殺菌效果超過加成作用。&lt;/p&gt;
+&lt;p&gt;胺基糖苷類的不良反應與時間和濃度都有關。毒性在達到某個閾值濃度之前不太可能發生，但一旦達到該濃度，超過此閾值的時間就變得關鍵。這個閾值並未精確定義，但 trough 濃度超過 2 mcg/mL 可預測毒性。在臨床相關劑量下，多次小劑量給藥時超過此閾值的總時間比單次大劑量給藥更長。多項臨床研究顯示，胺基糖苷類的單次每日劑量與多次較小劑量同樣有效——且可能毒性更低。因此，許多專家現在建議胺基糖苷類以單次每日劑量給藥。然而，每日一次給藥在治療腸球菌和葡萄球菌心內膜炎時的合併療法中的療效仍有待定義，標準的低劑量、每日三次給藥仍被推薦。相比之下，在鏈球菌心內膜炎中支持每日一次給藥的資料有限。每日一次給藥在妊娠和新生兒中的作用也未明確定義。&lt;/p&gt;
+&lt;p&gt;每日一次給藥具有潛在的實際優勢，例如，除非胺基糖苷類給藥超過3天，否則可能不需要重複測定血清濃度。一天給藥一次而非三次的藥物管理起來較不費力。而且每日一次給藥更適合門診治療。&lt;/p&gt;
+&lt;p&gt;胺基糖苷類由腎臟清除，排泄與肌酸酐清除率成正比。為避免藥物蓄積和達到毒性濃度，若腎功能受損，通常避免每日一次給藥。腎功能的快速變化（如急性腎損傷可能發生的情況）也必須監測，以避免過量或劑量不足。只要避免這些陷阱，每日一次胺基糖苷類給藥是安全有效的。若肌酸酐清除率 &amp;gt; 60 mL/min，則建議 gentamicin 或 tobramycin 單次每日劑量為 5-7 mg/kg（amikacin 為 15 mg/kg）。對於肌酸酐清除率 &amp;lt; 60 mL/min 的患者，建議採用如下所述的傳統給藥方式。使用每日一次給藥時，血清濃度通常不需要常规監測，直到治療的第2或第3天，視腎功能穩定性和預期治療持續時間而定。不需要監測 peak 濃度，因為它們會很高。目標是在給藥後18-24小時內維持 &amp;lt; 1 mcg/mL 的濃度。這提供了足夠的時間讓藥物 washout 發生，然後再給予下一劑。適當的 trough 濃度可通過在給藥後2小時和12小時取得的樣本測量血清濃度來準確確定，然後根據藥物的實際清除率調整劑量；或者通過在給藥後8小時取得的樣本測量濃度。若8小時濃度在 1.5 mcg/mL 和 6 mcg/mL 之間，則可在18小時達到目標 trough。&lt;/p&gt;</description>
     </item>
     <item>
       <title>藥物濫用</title>
@@ -3386,24 +3150,56 @@ called monosome. (Reproduced, with permission, from Trevor AT, Katzung BG, Maste
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;臨床重點&lt;/strong&gt;：Statins 可減少心血管事件並具抗發炎作用，多數患者需終身服藥。&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;CHAPTER 35 Agents Used in Dyslipidemia  621
-transporter, ABCA1, acquired by a small particle termed prebeta-1
-&lt;!-- raw HTML omitted --&gt;HDL&lt;!-- raw HTML omitted --&gt;, and then esterified by lecithin:cholesterol acyltransferase
-(LCAT), &lt;!-- raw HTML omitted --&gt;HDL&lt;!-- raw HTML omitted --&gt;ding to the formation of larger HDL species.
-Cholestero&lt;!-- raw HTML omitted --&gt;HDL&lt;!-- raw HTML omitted --&gt;s also exported fro&lt;!-- raw HTML omitted --&gt;VLDL&lt;!-- raw HTML omitted --&gt;crophages by the ABCG1
-transporter to large HDL particles. The cholesteryl esters are
-transferred to VLDL, IDL, LDL, and chylomicron remnants with
-the aid of cholesteryl ester transfer protein (CETP). Much of the
-cholesteryl ester thus transferred is ultimately delivered to the liver
-by endocytosis of the acceptor lipoproteins. HDL can also deliver
-cholesteryl esters directly to the liver via a docking receptor (scav-
-enger receptor, SR-BI) that does not cause endocytosis of the
-lipoproteins. HDL-C levels relate inversely to risk at the popula-
-tion level. Among individuals, the capacity to accept exported
-cholesterol can vary widely at identical levels of HDL-C. The abil-
-ity of peripheral tissues to export cholesterol via the transporter
-mechanism and the acceptor capacity of HDL are emerging as
-major determinants of coronary atherosclerosis.&lt;/p&gt;</description>
+&lt;p&gt;轉運蛋白ABCA1將膽固醇取得後，形成稱為prebeta-1 HDL的小顆粒，再由lecithin:cholesterol acyltransferase (LCAT)將其酯化為HDL，促進較大HDL顆粒的形成。膽固醇酯也可由ABCG1轉運蛋白從VLDL和巨噬細胞輸出至大型HDL顆粒。膽固醇酯在cholesteryl ester transfer protein (CETP)的協助下轉移至VLDL、IDL、LDL和乳糜微粒殘粒。大部分如此轉移的膽固醇酯最終由接受脂蛋白的內吞作用運送至肝臟。HDL也可透過不停泊受體（scavenger receptor, SR-BI）直接將膽固醇酯輸送至肝臟，且不會引起脂蛋白的內吞。HDL-C水平在族群層面與風險呈負相關。在相同HDL-C水平的個體間，吸收輸出膽固醇的能力可能有很大差異。周邊組織透過轉運蛋白機制輸出膽固醇的能力及HDL的接受能力，正逐漸被認為是冠狀动脉粥樣硬化的主要決定因素。&lt;/p&gt;
+&lt;h2 id=&#34;脂蛋白疾病&#34;&gt;脂蛋白疾病&lt;/h2&gt;
+&lt;p&gt;脂蛋白疾病透過禁食10小時後測量血清中的脂質來檢測。心臟病風險隨著致动脉粥樣硬化脂蛋白濃度的增加而上升，與HDL水平呈反向關係，並受其他風險因素影響（表35-1）。臨床試驗的證據表明，冠狀动脉疾病患者的LDL膽固醇水平可能達到60 mg/dL是最理想的。甘油三酯理想情況下應低於120 mg/dL。雖然LDL-C仍是治療的主要目標，但降低VLDL和IDL水平也很重要。非HDL膽固醇的計算提供了一種評估VLDL至LDL cascade中所有脂蛋白水平的方法。疾病的鑑別診斷需要確認涉及的脂蛋白（表35-2）。原發性疾病的診斷通常需要進一步的臨床和遺傳資料，以及排除續發性高脂血症（表35-3）。&lt;/p&gt;
+&lt;p&gt;本節描述脂蛋白分布異常的表型。提及用於這些情況的藥物將在下一節關於基礎和臨床藥理學中描述。&lt;/p&gt;
+&lt;h2 id=&#34;原發性高甘油三酯血症&#34;&gt;原發性高甘油三酯血症&lt;/h2&gt;
+&lt;p&gt;高甘油三酯血症與冠狀动脉疾病風險增加有關。在动脉粥樣硬化斑塊中發現了VLDL和IDL。這些患者往往具有小顆粒直徑的膽固醇富集VLDL和緻密小LDL。有冠狀动脉疾病或風險等同物的高甘油三酯血症患者應接受治療。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;表35-1 國家膽固醇教育計畫：成人治療指南（2001年）。&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;理想&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;邊緣至高1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;高&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;總膽固醇&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&amp;lt; 200 (5.2)2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;200–239 (5.2–6.2)2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&amp;gt; 240 (6.2)2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;LDL膽固醇&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&amp;lt; 130 (3.4)3&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;130–159 (3.4–4.1)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&amp;gt; 160 (4.1)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;HDL膽固醇&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;靜脈注射肝素後可通過脂肪酶活性測定來診斷乳糜微粒血症。透過證實每日脂肪攝入量降至15克以下數天後甘油三酯顯著下降可作出臆斷性診斷。嚴格限制膳食總脂肪是有效長期治療的基礎。如果VLDL水平升高，niacin、fibrate或海洋omega-3脂肪酸可能有所幫助。參與血管內脂肪水解的其他基因位點的遺傳變異，包括LMF1、apo A-V、GPI-HDL BP1和apo C-III，可能對甘油三酯水平產生深遠影響。&lt;/p&gt;</description>
     </item>
     <item>
       <title>貧血用藥</title>
@@ -3696,26 +3492,14 @@ major determinants of coronary atherosclerosis.&lt;/p&gt;</description>
 &lt;li&gt;Montelukast、Zafirlukast 抑制 cysteinyl-LT 受體&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;CHAPTER 18 The Eicosanoids: Prostaglandins, Thromboxanes, Leukotrienes, &amp;amp; Related Compounds    323
-A. Blood Cells and &lt;!-- raw HTML omitted --&gt;Inflammation&lt;!-- raw HTML omitted --&gt;
-LTB 4 , acting at the BLT 1 receptor, is a potent chemoattractant for
-T lymphocytes, eosinophils, monocytes, and possibly mast cells;
-the cysteinyl leukotrienes are potent chemoattractants for eosino-
-phils and T lymphocytes. Cysteinyl leukotrienes may also generate
-distinct sets of cytokines through activation of mast cell cysLT 1
-and cysLT 2 . At higher concentrations, these leukotrienes also pro-
-mote eosinophil adherence, degranulation, cytokine or chemokine
-release, and oxygen radical formation. Cystein&lt;!-- raw HTML omitted --&gt;inflammation&lt;!-- raw HTML omitted --&gt;nes also
-contribute to inflammation &lt;!-- raw HTML omitted --&gt;inflam&lt;!-- raw HTML omitted --&gt;inflammation&lt;!-- raw HTML omitted --&gt;&amp;gt;g endothelial permeabil-
-ity, thus promoting migration of inflammatory cells to the site of
-inflammation. The leukotrienes have been strongly implicated in
-the pathogenesis of inflammation, especially in chronic diseases
-such as asthma and inflammatory bowel disease.
-Lipoxins have diverse effects on leukocytes, including activa-
-tion of monocytes and macrophages and inhibition of neutrophil,
-eosinophil, and lymphocyte activation. Both lipoxin A and lipoxin
-B inhibit natural killer cell cytotoxicity.
-B. Heart and Smooth Muscle&lt;/p&gt;</description>
+&lt;h2 id=&#34;類二十碳酸前列腺素白三烯與相關化合物&#34;&gt;類二十碳酸：前列腺素，白三烯與相關化合物&lt;/h2&gt;
+&lt;h3 id=&#34;a-血液細胞與發炎&#34;&gt;A. 血液細胞與發炎&lt;/h3&gt;
+&lt;p&gt;LTB4 作用於 BLT1 受體，是嗜中性球、T 淋巴球、嗜酸性球、單核球及可能為肥大細胞的強效趨化因子；含半胱胺酸的白三烯是嗜酸性球和 T 淋巴球的強效趨化因子。含半胱胺酸的白三烯也可能透過活化肥大細胞的 cysLT1 和 cysLT2 受體產生不同的細胞激素集合。在較高濃度下，這些白三烯也會促進嗜酸性球的黏附、去顆粒化、細胞激素或趨化因子釋放，以及氧自由基的形成。含半胱胺酸的白三烯也會增加發炎時的內皮細胞通透性，促進發炎細胞遷移到發炎部位。白三烯已被強烈證實與發炎性疾病的發病機制有關，特別是慢性疾病如氣喘和發炎性腸道疾病。&lt;/p&gt;
+&lt;p&gt;Lipoxins 對白血球有多種作用，包括活化單核球和巨噬細胞，以及抑制嗜中性球、嗜酸性球和淋巴球的活化。Lipoxin A 和 lipoxin B 都會抑制自然殺手細胞的細胞毒性。&lt;/p&gt;
+&lt;h3 id=&#34;b-心臟與平滑肌&#34;&gt;B. 心臟與平滑肌&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1. 心血管系統&lt;/strong&gt;—12(S)-HETE 在低濃度下促進血管平滑肌細胞的增殖和遷移；它可能在血管損傷（如血管成形術後）發生的內膜增生中扮演角色。其立體異構物 12(R)-HETE 不是趨化因子，但卻是角膜中 Na+/K+-ATPase 的強效抑制劑。LTC4 和 LTD4 會降低心肌收縮力和冠狀血流，導致心臟抑制。Lipoxin A 和 lipoxin B 在體外具有冠狀血管收縮作用。除了血管舒張作用外，EETs 可能減少心臟肥厚，以及系統性和肺血管平滑肌的增殖和遷移。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 胃腸道&lt;/strong&gt;—人類結腸上皮細胞會合成 LTB4，這是一種嗜中性球的趨化因子。發炎性腸道疾病患者的結腸黏膜含有顯著增加的 LTB4 量。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 氣道&lt;/strong&gt;—含半胱胺酸的白三烯，特別是 LTC4 和 LTD4，是強效的支氣管收縮劑，並會增加氣道中的微血管通透性、血漿滲出和黏液分泌。關於白三烯受體的模式和特異性是否在動物模型和人類之間有所不同，目前仍有爭議。人類肺組織中尚未發現 LTC4 特異性受體，而高親和力和低親和力的 LTD4 受體則兩者皆存在。&lt;/p&gt;</description>
     </item>
     <item>
       <title>驅蟲藥物</title>
